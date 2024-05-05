@@ -3,7 +3,7 @@ This App is an exploratory analysis of the 2023 NFL Season. Specifically, we wil
 
 ## Data sources
 
-### column decriptions
+### Column Decriptions
 Source: https://www.nflfastr.com/articles/field_descriptions.html
 
 ## Deployment
