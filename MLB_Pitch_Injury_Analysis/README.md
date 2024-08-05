@@ -25,6 +25,6 @@ streamlit run app.py --server.port 8000
 ~~~
 
 ## Acknowledgement of Limitations
-- Injury report data is skewed since teams use it to remove players around strategically, not just for injuries  
+- Injury report data is skewed since teams use it to move players around strategically, not just for injuries  
 - Covid-19 impacted the injury report statistics
 - Previous injuries will also impact future injuries
